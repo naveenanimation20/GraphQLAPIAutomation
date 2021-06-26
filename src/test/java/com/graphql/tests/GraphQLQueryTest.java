@@ -12,7 +12,11 @@ import com.qa.pojos.QueryVariable;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 
-
+/**
+ * 
+ * @author naveenautomationlabs
+ *
+ */
 public class GraphQLQueryTest {
 	
 	@Test

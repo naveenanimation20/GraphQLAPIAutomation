@@ -1,5 +1,10 @@
 package com.qa.pojos;
 
+/**
+ * POJO for QueryVariable
+ * @author naveenautomationlabs
+ *
+ */
 public class QueryVariable {
 
 	private int limit;
