@@ -74,6 +74,12 @@
 			<version>5.0.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.apache.juneau</groupId>
+			<artifactId>juneau-marshall</artifactId>
+			<version>8.2.0</version>
+		</dependency>
+
 
 	</dependencies>
 
