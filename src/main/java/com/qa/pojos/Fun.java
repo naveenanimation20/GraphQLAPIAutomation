@@ -14,5 +14,12 @@ public class Fun {
 		System.out.println("this is naveen sun");
 
 	}
+	
+	
+	public void sun() {
+		
+		System.out.println("this is sun");
+		
+	}
 
 }
