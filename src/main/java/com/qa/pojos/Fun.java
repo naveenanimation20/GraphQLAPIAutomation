@@ -7,5 +7,12 @@ public class Fun {
 		System.out.println("this is fun");
 		
 	}
+	
+	
+	public void sun() {
+		
+		System.out.println("this is sun");
+		
+	}
 
 }
