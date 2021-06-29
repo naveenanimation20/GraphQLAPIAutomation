@@ -3,7 +3,9 @@ package com.qa.pojos;
 public class Fun {
 	
 	public void fun() {
-		System.exit(0);
+		
+		System.out.println("this is fun");
+		
 	}
 
 }
